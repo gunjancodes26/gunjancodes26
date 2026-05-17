@@ -8,7 +8,7 @@ Hi, I'm Gunjan 👋
 
 📫 Connect With Me
 
-www.linkedin.com/in/gunjanchugh6082
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjanchugh6082)
 
 🚀 Tech Stack
 
