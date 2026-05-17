@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Gunjan 👋
 
-<!--
-**gunjancodes26/gunjancodes26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com Student & Data Analytics Enthusiast  
+📊 Skilled in Excel, Python & SQL  
+📈 Interested in Data Visualization & Business Analytics  
+🌱 Currently improving my dashboard and reporting skills  
+✨ Open to internships and learning opportunities
 
-Here are some ideas to get you started:
+📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+www.linkedin.com/in/gunjanchugh6082
+
+🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
