@@ -1,7 +1,7 @@
 Hi, I'm Gunjan 👋
 
 🎓 B.Com Student & Data Analytics Enthusiast  
-📊 Skilled in Excel, Python & SQL  
+📊 Skilled in Excel, Power BI, Python & SQL  
 📈 Interested in Data Visualization & Business Analytics  
 🌱 Currently improving my dashboard and reporting skills  
 ✨ Open to internships and learning opportunities
